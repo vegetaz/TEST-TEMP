@@ -1,6 +1,6 @@
 ---
 lab:
-   <div dir="rtl" align="right">title:  'إيصالات مع أداة التعرف النماذج'</div>
+   title:  'إيصالات مع أداة التعرف النماذج'
 ---
 <div dir="rtl" align="right">
 # أنشطة معملية للذكاء الاصطناعي AI-900
