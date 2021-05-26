@@ -1,8 +1,8 @@
-﻿<div dir="rtl" align="right">
 ---
 lab:
-   title: 'إيصالات مع أداة التعرف النماذج'
+   title: <div dir="rtl" align="right"> 'إيصالات مع أداة التعرف النماذج'</div>
 ---
+<div dir="rtl" align="right">
 # أنشطة معملية للذكاء الاصطناعي AI-900
 ## احصل على أحدث الملفات
 
